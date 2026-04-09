@@ -7,7 +7,7 @@ The purpose of this project is to estimate the hydrogen production potential of 
 
 ### Technologies
 * Python
-* TensorFlow
+* Pytorch
 * FastAPI
 * OpenCV
 * MongoDB
